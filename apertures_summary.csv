@@ -1,0 +1,23 @@
+id,type,name,area,width,height,center_x,center_y,center_z,connected_room_count,connected_rooms
+A001,aperture,Aperture_001,1.946,2.224,0.875,8.711,14.081,1.112,2,Room_02_Hall | Room_013_Living
+A002,aperture,Aperture_002,3.411,2.231,1.529,8.274,11.567,1.115,2,Room_02_Hall | Room_01_kitchen
+A003,aperture,Aperture_003,2.372,2.4,0.989,14.278,16.418,1.2,2,Room_09_Bedroom_01 | Room_011_Balcony_01
+A004,aperture,Aperture_004,4.882,2.4,2.034,8.5,17.399,1.2,2,Room_013_Living | Room_012_Balcony_02
+A005,aperture,Aperture_005,2.057,2.328,0.883,15.427,13.127,1.164,2,Room_09_Bedroom_01 | Room_08_Bathroom_02
+A006,aperture,Aperture_006,2.051,2.4,0.855,13.92,13.127,1.2,2,Room_09_Bedroom_01 | Room_07_Closet_01
+A007,aperture,Aperture_007,1.654,2.134,0.775,11.285,13.127,1.067,2,Room_02_Hall | Room_06_Batroom_01
+A008,aperture,Aperture_008,2.01,2.249,0.894,12.83,13.634,1.124,2,Room_02_Hall | Room_09_Bedroom_01
+A009,aperture,Aperture_009,1.488,2.4,0.62,11.433,14.081,1.2,2,Room_02_Hall | Room_010_Bedroom_02
+A010,aperture,Aperture_010,1.695,2.231,0.76,9.277,11.361,1.115,2,Room_03_Laundry | Room_02_Hall
+A011,aperture,Aperture_011,1.097,2.326,0.472,9.277,12.841,1.163,2,Room_05_Cava | Room_02_Hall
+A012,aperture,Window_07,1.241,1.398,0.888,11.082,17.953,1.701,1,Room_012_Balcony_02
+A013,aperture,Window_07,1.423,1.398,1.018,5.614,17.908,1.701,1,Room_012_Balcony_02
+A014,aperture,Window_07,5.673,4.058,1.398,8.553,18.519,1.701,1,Room_012_Balcony_02
+A015,aperture,Window_07,3.708,2.652,1.398,15.11,17.509,1.701,1,Room_011_Balcony_01
+A016,aperture,Window_07,0.371,0.626,0.593,14.985,10.481,2.087,1,Room_08_Bathroom_02
+A017,aperture,Window_07,0.517,0.842,0.614,12.389,11.542,1.932,2,Room_02_Hall | Room_06_Batroom_01
+A018,aperture,Window_07,0.58,0.898,0.646,11.093,10.535,2.064,2,Room_03_Laundry | Room_02_Hall
+A019,aperture,Window_07,2.301,2.4,0.959,7.004,17.399,1.2,2,Room_013_Living | Room_012_Balcony_02
+A020,aperture,Window_07,2.31,2.4,0.963,9.999,17.399,1.2,2,Room_013_Living | Room_012_Balcony_02
+A021,aperture,Window_07,3.784,2.025,1.869,12.126,17.509,1.388,1,Room_010_Bedroom_02
+A022,aperture,Window_07,2.362,2.4,0.984,15.265,16.418,1.2,2,Room_09_Bedroom_01 | Room_011_Balcony_01
