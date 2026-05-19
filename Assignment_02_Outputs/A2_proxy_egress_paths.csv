@@ -1,0 +1,13 @@
+start_room,candidate_exit,proxy_path_length,proxy_hops
+Room_01_kitchen,Window_01,6.9227,5
+Room_07_Closet_01,Window_011,5.7451,5
+Room_05_Cava,Window_01,4.6799,5
+Room_02_Hall,Window_01,3.9541,3
+Room_09_Bedroom_01,Window_011,3.1123,3
+Room_013_Living,Window_09,3.0458,3
+Room_010_Bedroom_02,Window_06,1.7607,1
+Room_08_Bathroom_02,Window_03,1.6353,1
+Room_06_Batroom_01,Window_02,1.4607,1
+Room_03_Laundry,Window_01,1.3599,1
+Room_012_Balcony_02,Window_09,0.7953,1
+Room_011_Balcony_01,Window_011,0.7548,1

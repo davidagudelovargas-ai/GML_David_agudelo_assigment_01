@@ -1,0 +1,216 @@
+aperture,type,connected_room_count,connected_rooms,tolerance_used
+Door_173,Aperture,2,Circulation_011 | Parking7,0.08
+Door_172,Aperture,2,Parking1 | Parking7,0.08
+Door_171,Aperture,2,Circulation_011 | Parking8,0.08
+Door_170,Aperture,2,Parking2 | Parking8,0.08
+Door_169,Aperture,2,Circulation_010 | Parking9,0.08
+Door_168,Aperture,2,Parking3 | Parking9,0.08
+Door_167,Aperture,2,Circulation_010 | Parking10,0.08
+Door_166,Aperture,2,Parking10 | Parking4,0.08
+Door_165,Aperture,2,Circulation_010 | Parking_11,0.08
+Door_164,Aperture,2,Parking5 | Parking_11,0.08
+Door_163,Aperture,2,Circulation_010 | Parking_12,0.08
+Door_162,Aperture,2,Parking6 | Parking_12,0.08
+Door_161,Aperture,2,Circulation_010 | Parking_13,0.08
+Door_160,Aperture,2,Circulation_010 | Parking_14,0.08
+Door_159,Aperture,2,Circulation_010 | Parking_15,0.08
+Door_158,Aperture,2,Circulation_010 | Parking_16,0.08
+Door_157,Aperture,2,Circulation_010 | Parking_17,0.08
+Door_156,Aperture,2,Circulation_008 | Parking_18,0.08
+Door_155,Aperture,2,Circulation_008 | Parking_19,0.08
+Door_154,Aperture,2,Circulation_008 | Parking_20,0.08
+Door_153,Aperture,2,Circulation_008 | Parking_21,0.08
+Door_152,Aperture,2,Circulation_008 | Parking_22,0.08
+Door_151,Aperture,2,Circulation_008 | Parking_23,0.08
+Door_150,Aperture,2,Circulation_008 | Parking_24,0.08
+Door_149,Aperture,2,Circulation_008 | Parking_25,0.08
+Door_148,Aperture,2,Circulation_008 | Parking_26,0.08
+Door_147,Aperture,2,Circulation_008 | Parking_27,0.08
+Door_146,Aperture,2,Circulation_008 | Parking_28,0.08
+Door_145,Aperture,2,Circulation_013 | Parking_31,0.08
+Door_144,Aperture,2,Circulation_013 | Parking_32,0.08
+Door_143,Aperture,2,Circulation_013 | Parking_33,0.08
+Door_142,Aperture,2,Circulation_013 | Parking_34,0.08
+Door_141,Aperture,2,Circulation_013 | Parking_35,0.08
+Door_140,Aperture,2,Circulation_013 | Parking_36,0.08
+Door_139,Aperture,2,Circulation_013 | Parking_37,0.08
+Door_138,Aperture,2,Circulation_013 | Parking_38,0.08
+Door_137,Aperture,2,Circulation_013 | Parking_39,0.08
+Door_136,Aperture,2,Circulation_013 | Parking_40,0.08
+Door_135,Aperture,2,Circulation_013 | Parking_42,0.08
+Door_134,Aperture,2,Circulation_013 | Parking_43,0.08
+Door_133,Aperture,2,Circulation_013 | Parking_44,0.08
+Door_132,Aperture,2,Circulation_013 | Parking_45,0.08
+Door_131,Aperture,2,Circulation_013 | Parking_46,0.08
+Door_130,Aperture,2,Circulation_013 | Parking_47,0.08
+Door_129,Aperture,2,Circulation_013 | Parking_48,0.08
+Door_128,Aperture,2,Circulation_013 | Parking_49,0.08
+Door_127,Aperture,2,Circulation_013 | Parking_50,0.08
+Door_126,Aperture,2,Circulation_012 | Parking_51,0.08
+Door_125,Aperture,2,Circulation_012 | Parking_52,0.08
+Door_124,Aperture,2,Circulation_012 | Parking_53,0.08
+Door_123,Aperture,2,Circulation_012 | Parking_54,0.08
+Door_122,Aperture,2,Circulation_012 | Parking_55,0.08
+Door_121,Aperture,2,Circulation_012 | Parking_56,0.08
+Door_120,Aperture,2,Circulation_012 | Parking_57,0.08
+Door_119,Aperture,2,Circulation_012 | Parking_58,0.08
+Door_118,Aperture,3,Circulation_003 | Parking_67 | Unnamed room,0.08
+Door_117,Aperture,3,Circulation_004 | Parking_100 | Unnamed room,0.08
+Door_116,Aperture,3,Circulation_004 | Parking_101 | Unnamed room,0.08
+Door_115,Aperture,3,Circulation_007 | Parking_70 | Unnamed room,0.08
+Door_114,Aperture,3,Circulation_007 | Parking_72 | Unnamed room,0.08
+Door_113,Aperture,3,Circulation_007 | Parking_71 | Unnamed room,0.08
+Door_112,Aperture,3,Circulation_007 | Parking_73 | Unnamed room,0.08
+Door_111,Aperture,3,Circulation_007 | Parking_74 | Unnamed room,0.08
+Door_110,Aperture,3,Circulation_007 | Parking_75 | Unnamed room,0.08
+Door_109,Aperture,3,Circulation_007 | Parking_76 | Unnamed room,0.08
+Door_108,Aperture,3,Circulation_007 | Parking_77 | Unnamed room,0.08
+Door_107,Aperture,2,Circulation_006 | Parking_59,0.08
+Door_106,Aperture,2,Circulation_006 | Parking_60,0.08
+Door_105,Aperture,2,Circulation_006 | Parking_61,0.08
+Door_104,Aperture,2,Circulation_006 | Parking_62,0.08
+Door_103,Aperture,2,Circulation_006 | Parking_63,0.08
+Door_102,Aperture,2,Circulation_006 | Parking_64,0.08
+Door_101,Aperture,2,Circulation_006 | Parking_65,0.08
+Door_100,Aperture,2,Circulation_006 | Parking_78,0.08
+Door_099,Aperture,2,Circulation_006 | Parking_79,0.08
+Door_098,Aperture,2,Circulation_006 | Parking_80,0.08
+Door_097,Aperture,2,Circulation_006 | Parking_81,0.08
+Door_096,Aperture,2,Circulation_006 | Parking_82,0.08
+Door_095,Aperture,2,Circulation_006 | Parking_83,0.08
+Door_094,Aperture,2,Circulation_006 | Parking_84,0.08
+Door_093,Aperture,2,Circulation_006 | Parking_85,0.08
+Door_092,Aperture,2,Circulation_006 | Parking_66,0.08
+Door_091,Aperture,2,Circulation_005 | Parking_86,0.08
+Door_090,Aperture,2,Circulation_005 | Parking_87,0.08
+Door_089,Aperture,2,Circulation_005 | Parking_88,0.08
+Door_088,Aperture,2,Circulation_005 | Parking_89,0.08
+Door_087,Aperture,2,Circulation_005 | Parking_90,0.08
+Door_086,Aperture,2,Circulation_005 | Parking_91,0.08
+Door_085,Aperture,2,Circulation_005 | Parking_92,0.08
+Door_084,Aperture,2,Circulation_005 | Parking_93,0.08
+Door_083,Aperture,2,Parking_88 | Parking_94,0.08
+Door_082,Aperture,2,Parking_89 | Parking_95,0.08
+Door_081,Aperture,2,Parking_90 | Parking_96,0.08
+Door_080,Aperture,2,Parking_91 | Parking_97,0.08
+Door_079,Aperture,2,Parking_92 | Parking_98,0.08
+Door_078,Aperture,2,Parking_93 | Parking_99,0.08
+Door_077,Aperture,2,Parking7 | Storage_room_004,0.08
+Door_076,Aperture,2,Circulation_011 | Storage_room_003,0.08
+Door_075,Aperture,2,Circulation_011 | Storage_room_005,0.08
+Door_074,Aperture,2,Circulation_011 | Storage_room_006,0.08
+Door_073,Aperture,2,Circulation_011 | Storage_room_007,0.08
+Door_072,Aperture,2,Circulation_011 | Storage_room_008,0.08
+Door_071,Aperture,2,Circulation_011 | Storage_room_009,0.08
+Door_070,Aperture,2,Circulation_011 | Storage_room_010,0.08
+Door_069,Aperture,2,Circulation_011 | Storage_room_011,0.08
+Door_068,Aperture,2,Circulation_011 | Storage_room_012,0.08
+Door_067,Aperture,2,Circulation_011 | Storage_room_013,0.08
+Door_066,Aperture,2,Circulation_011 | Storage_room_014,0.08
+Door_065,Aperture,2,Circulation_011 | Storage_room_015,0.08
+Door_064,Aperture,2,Circulation_011 | Storage_room_016,0.08
+Door_063,Aperture,2,Circulation_011 | Storage_room_017,0.08
+Door_062,Aperture,2,Circulation_011 | Storage_room_018,0.08
+Door_061,Aperture,2,Circulation_011 | recycling_room_01,0.08
+Door_060,Aperture,2,Circulation_013 | recycling_room_02,0.08
+Door_059,Aperture,2,Circulation_010 | recycling_room_03,0.08
+Door_058,Aperture,2,Circulation_001 | Elevator_01_Tower_01,0.08
+Door_057,Aperture,2,Circulation_001 | Elevator_02_Tower_01,0.08
+Door_056,Aperture,2,Circulation_008 | Parking_41,0.08
+Door_055,Aperture,3,Circulation_001 | Circulation_002 | Parking_29,0.08
+Door_054,Aperture,2,Circulation_002 | Parking_30,0.08
+Door_053,Aperture,2,BOILER ROOM | Circulation_001,0.08
+Door_052,Aperture,2,04_Common_Space | Circulation_001,0.08
+Door_051,Aperture,3,03_service kitchenette | 04_Common_Space | Circulation_001,0.08
+Door_050,Aperture,2,04_Common_Space | Circulation_004,0.08
+Door_049,Aperture,1,Circulation_001,1.0
+Door_048,Aperture,1,recycling_room_01,1.0
+Door_047,Aperture,2,01_Lobby | 02_Retail_space,1.0
+Door_046,Aperture,2,01_Lobby | Circulation_001,0.08
+Door_045,Aperture,2,Circulation_001 | Stair_01_Tower_02,0.08
+Door_044,Aperture,2,Circulation_001 | Stair_02_Tower_02,0.08
+Door_043,Aperture,2,Circulation_001 | Stair_02_Tower_01,0.08
+Door_042,Aperture,2,Circulation_001 | Stair_01_Tower_01,0.08
+Door_041,Aperture,2,Circulation_001 | Elevator_01_Tower_02,0.08
+Door_040,Aperture,2,Circulation_001 | Elevator_02_Tower_02,0.08
+Door_039,Aperture,2,07_service_area | Circulation_001,0.08
+Door_038,Aperture,2,08_Gym | Circulation_001,0.08
+Door_037,Aperture,1,08_Gym,1.0
+Door_036,Aperture,1,08_Gym,1.0
+Door_035,Aperture,2,010_Circulaction | 08_Gym,0.08
+Door_034,Aperture,2,010_Circulaction | 09_Storage_public,0.08
+Door_033,Aperture,2,010_Circulaction | 08_Bathroom_Gym,0.08
+Door_032,Aperture,1,011_community_hall,1.0
+Door_031,Aperture,1,011_community_hall,1.0
+Door_030,Aperture,1,011_community_hall,1.0
+Door_029,Aperture,1,011_community_hall,1.0
+Door_028,Aperture,2,011_BAthroom_community_hall_01 | 011_community_hall,0.08
+Door_027,Aperture,2,011_BAthroom_community_hall_02 | 011_community_hall,0.08
+Door_026,Aperture,1,06_Major_Office,1.0
+Door_025,Aperture,1,05_FAmily_Room,1.0
+Door_024,Aperture,1,05_FAmily_Room,1.0
+Door_023,Aperture,1,05_FAmily_Room,1.0
+Door_022,Aperture,2,Parking1 | Storage_room_002,1.0
+Door_021,Aperture,2,Circulation_004 | POWER PLANT,0.08
+Door_020,Aperture,2,BOILER ROOM | Circulation_004,0.08
+Door_019,Aperture,2,Circulation_004 | ELECTRICAL_SUBSTATION,0.08
+Door_018,Aperture,2,Circulation_004 | ELECTRICAL_SUBSTATION,0.08
+Door_017,Aperture,2,02_Retail_space | object_1,0.08
+Door_016,Aperture,3,03_service kitchenette | 04_Common_Space | object_2,0.08
+Door_015,Aperture,3,03_service kitchenette | 04_Common_Space | object_3,0.08
+Door_014,Aperture,1,Circulation_004,1.0
+Door_013,Aperture,1,Circulation_001,1.0
+Door_012,Aperture,2,Circulation_011 | Circulation_012,0.08
+Door_011,Aperture,2,Circulation_011 | Circulation_013,0.08
+Door_010,Aperture,2,Circulation_008 | Circulation_011,0.08
+Door_009,Aperture,2,Circulation_010 | Circulation_011,0.08
+Door_008,Aperture,2,Circulation_001 | Circulation_008,0.08
+Door_007,Aperture,2,Circulation_001 | Circulation_002,0.08
+Door_006,Aperture,2,Circulation_002 | Circulation_004,0.08
+Door_005,Aperture,2,Circulation_004 | Circulation_006,0.08
+Door_004,Aperture,2,Circulation_004 | Circulation_007,0.08
+Door_003,Aperture,2,Circulation_003 | Circulation_004,0.08
+Door_002,Aperture,2,Circulation_001 | Circulation_003,0.08
+Door_001,Aperture,2,Circulation_004 | Circulation_005,0.08
+Window_042,Aperture,1,02_Retail_space,1.0
+Window_041,Aperture,1,Circulation_012,1.0
+Window_040,Aperture,1,Circulation_012,1.0
+Window_039,Aperture,1,Circulation_012,1.0
+Window_038,Aperture,1,Circulation_012,1.0
+Window_037,Aperture,1,Circulation_012,1.0
+Window_036,Aperture,1,Circulation_012,1.0
+Window_035,Aperture,1,Circulation_012,1.0
+Window_034,Aperture,1,Circulation_012,1.0
+Window_033,Aperture,1,Circulation_011,1.0
+Window_032,Aperture,2,01_Lobby | Circulation_001,0.6
+Window_031,Aperture,2,03_service kitchenette | 04_Common_Space,0.08
+Window_030,Aperture,1,04_Common_Space,1.0
+Window_029,Aperture,2,Parking_94 | Parking_95,1.0
+Window_028,Aperture,2,Parking_95 | Parking_96,1.0
+Window_027,Aperture,2,Parking_96 | Parking_97,1.0
+Window_026,Aperture,2,Parking_97 | Parking_98,1.0
+Window_025,Aperture,2,Parking_98 | Parking_99,1.0
+Window_024,Aperture,1,Parking_99,1.0
+Window_023,Aperture,1,Parking_99,1.0
+Window_022,Aperture,1,Parking_99,1.0
+Window_021,Aperture,2,Parking_93 | Parking_99,1.0
+Window_020,Aperture,1,Parking_93,1.0
+Window_019,Aperture,2,Circulation_005 | Parking_93,1.0
+Window_018,Aperture,2,Circulation_005 | Parking_85,0.6
+Window_017,Aperture,2,Circulation_005 | Parking_85,1.0
+Window_016,Aperture,1,Parking_85,1.0
+Window_015,Aperture,2,Circulation_006 | Parking_85,1.0
+Window_014,Aperture,1,Circulation_006,1.0
+Window_013,Aperture,2,Circulation_006 | Parking_66,1.0
+Window_012,Aperture,1,Parking_66,1.0
+Window_011,Aperture,2,Circulation_007 | Parking_66,1.0
+Window_010,Aperture,3,Circulation_007 | Parking_77 | Unnamed room,0.6
+Window_009,Aperture,3,Circulation_007 | Parking_77 | Unnamed room,1.0
+Window_008,Aperture,1,Parking_77,1.0
+Window_007,Aperture,1,011_community_hall,1.0
+Window_006,Aperture,2,Parking1 | Parking2,1.0
+Window_005,Aperture,2,Parking2 | Parking3,1.0
+Window_004,Aperture,2,Parking3 | Parking4,1.0
+Window_003,Aperture,2,Parking4 | Parking5,1.0
+Window_002,Aperture,2,Parking5 | Parking6,1.0
+Window_001,Aperture,2,05_FAmily_Room | Parking6,1.0
