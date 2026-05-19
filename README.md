@@ -1,67 +1,77 @@
 # GRAPHML David Agudelo 2026
 
-This repository contains Assignment 2 of a graph-based architectural analysis workflow.
-The project uses TopologicPy in Jupyter Notebook to convert 3D OBJ geometry into spatial graphs and metric tables.
+Spatial analysis and representation project focused on architectural relationships derived from 3D OBJ models. The work is developed in Jupyter Notebook with TopologicPy and converts architectural geometry into semantic structures, spatial graphs, and exportable metric tables.
 
-## Project Goal
+The repository documents an applied workflow to identify spaces, doors, and windows, register apertures in an architectural model, build connectivity graphs, and produce outputs useful for analysis, teaching, and research.
 
-The goal is to analyze spatial organization in an architectural model using graph methods.
-The notebook computes centrality, shortest paths, bottlenecks, and communities, then exports results for reports and presentations.
+![Architectural model](Apartment%20Model.png)
 
-## Main Notebook
+## Project Objective
 
-- `Assignment_02_David_Agudelo_v3.ipynb`: complete Assignment 2 workflow.
+This project aims to demonstrate how a geometric model can be transformed into an interpretable spatial model. Starting from OBJ files, the main notebook builds a `CellComplex`, transfers semantic attributes to architectural spaces, registers apertures, and generates graphs that describe relationships such as adjacency, access, and connections between rooms.
 
-## Input Files
+In simple terms, the project translates geometry into spatial information that can be used to:
 
-- `Aranjuez_Test_05_Rooms.obj`: room geometry.
-- `Aranjuez_Test_02_Doors.obj`: door geometry.
-- `Aranjuez_Test_02_Windows.obj`: window geometry.
+- read the internal organization of a house or building
+- study connectivity between rooms
+- identify relationships among doors, windows, and spaces
+- export metrics for later analysis or external visualization
 
-## Output Folder
+## Repository Contents
 
-- `Assignment_02_Outputs/`: all exported Assignment 2 results.
+### Main Notebook
 
-Main output files include:
+- `Assigment 01_David_Agudelo.ipynb`: complete workflow for import, classification, spatial analysis, graph construction, and result export.
 
-- `A2_room_graph_metrics.csv`
-- `A2_access_graph_metrics.csv`
-- `A2_shortest_paths.csv`
-- `A2_street_door_shortest_paths.csv`
-- `A2_bottlenecks.csv`
-- `A2_bridge_edges.csv`
-- `A2_cut_vertices.csv`
-- `A2_global_summary.csv`
-- `A2_access_graph.json`
-- `A2_access_graph.gexf`
-- `A2_short_report.md`
+### Input Models
 
-## Workflow Summary
+- `Test_05.obj`: main architectural model.
+- `Test_05_Doors.obj`: door geometry used as apertures.
+- `Test_05_Windows.obj`: window geometry used as apertures.
 
-1. Load room, door, and window OBJ files.
-2. Rebuild rooms as topological cells.
-3. Detect room-aperture relations.
-4. Build two graphs:
-	- room adjacency graph (room-to-room through doors)
-	- access graph (rooms, doors, and windows)
-5. Compute metrics:
-	- Degree Centrality
-	- Closeness Centrality
-	- Betweenness Centrality
-	- Shortest Paths
-	- Bridges, Cut Vertices, and Communities
-6. Export tables and graph files for analysis and visualization.
+### Exported Results
 
-## Tools
+- `rooms_summary.csv`: general summary of spaces.
+- `rooms_metrics.csv`: spatial metrics for rooms.
+- `rooms_schedule.csv`: room schedule table.
+- `apertures_summary.csv`: summary of doors and windows.
+- `global_counts.csv`: overall counts for the model and the graph.
+
+## Methodology
+
+The notebook workflow can be summarized as follows:
+
+1. Import OBJ geometry and read its basic attributes.
+2. Convert enclosed rooms into spatial cells.
+3. Assign semantic dictionaries to spaces and internal selectors.
+4. Build an architectural `CellComplex`.
+5. Register doors and windows as apertures on the model faces.
+6. Generate spatial graphs with `Graph.ByTopology`.
+7. Extract room-to-room and door-to-room relationships.
+8. Export metrics, tables, and counts to CSV.
+
+## Main Tools
 
 - Python 3
 - Jupyter Notebook
 - TopologicPy
+- CSV export for results
 
-## Notes
+## Type of Results Produced
 
-- The shortest-path analysis in this notebook uses proxy routes in the graph.
-- These results support spatial analysis and design interpretation, but they are not a formal egress code certification.
+The project does not stop at geometry visualization. It also generates structured information such as:
+
+- spatial connectivity graphs
+- identification of connections through shared apertures
+- door and window tables with area, dimensions, and position
+- room summaries with volume, dimensions, and aperture relationships
+- global counts of spaces, apertures, vertices, and edges
+
+### 1. Computational Spatial Analysis
+
+Methodology for transforming geometric models into navigable spatial graphs. The contribution lies in the reproducible workflow: OBJ import, topological conversion, aperture registration, and extraction of spatial metrics.
+
+Possible research question: how does the explicit incorporation of doors and windows influence the interpretation of connectivity and accessibility in an architectural floor plan?
 
 ## Author
 
